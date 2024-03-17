@@ -107,5 +107,5 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */,
     "noEmitOnError": true                                /* Skip the javascript file creation if errors exist in typescript file.*/
   },
-  "exclude": ["src/section 2/", "src/analytics.ts"]
+  "exclude": ["src/section 2/", "src/analytics.ts", "src/section 5/"]
 }
