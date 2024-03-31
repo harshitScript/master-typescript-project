@@ -1,4 +1,5 @@
 //? The get (getter) and set (setter) methods in classes.
+//* The getter and setter properties can only be accessed on the class instance.
 //* These are the methods that can be accessed as properties in the classes.
 
 class School {
